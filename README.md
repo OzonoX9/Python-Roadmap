@@ -1,4 +1,4 @@
-# Proyecto de Python - Curso de YouTube
+# Mi viaje de descubrimiento de Python - Roadmap
 
 Este repositorio contiene los archivos de lo que voy aprendiendo del roadmap de Python.
 
